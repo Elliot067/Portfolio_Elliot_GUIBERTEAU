@@ -13,7 +13,7 @@ function Welcome() {
         </p>
   
         <p>
-        <span>étudiant en formation de technicien informatique</span>
+        <span>Technicien informatique</span>
         </p>
         <p>
 
