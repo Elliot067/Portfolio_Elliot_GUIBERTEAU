@@ -1,0 +1,22 @@
+#profile{
+    background-color: #5dade2;
+    padding-top: 100px;
+    height: 650px;
+    color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+#contenair-profile{
+    width: 600px;
+    border: solid white 5px;
+    border-radius: 5px;
+    height: 450px;
+    padding: 50px;
+}
+#profile h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}

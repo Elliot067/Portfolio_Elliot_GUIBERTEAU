@@ -1,0 +1,45 @@
+#banner{
+  
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1vw;
+    width: 100%;
+    margin-top: 0px;
+    position: sticky;
+    top: 0px;
+    background-color: #1e3d58;
+    color: white;
+
+ 
+
+}
+#banner div{
+    padding: 20 0 20 0px;
+}
+
+#banner-title{
+    margin-left: 10%;
+}
+
+
+#banner-menu{
+    width: 50%;
+}
+#banner-menu li{
+    display:inline;
+    margin-right:  10%;
+}
+
+#banner a {
+    color: white;
+    text-decoration: none;
+
+}
+
+#banner a:hover {
+
+    text-decoration: underline;
+
+}
