@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Elliot_GUIBERTEAU/static/css/main.9a9f5dee.css",
+    "main.js": "/Portfolio_Elliot_GUIBERTEAU/static/js/main.207c1d06.js",
+    "static/media/Windows.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Windows.97487165005bb9cd0c22.png",
+    "static/media/Portfolio_BTS.jpg": "/Portfolio_Elliot_GUIBERTEAU/static/media/Portfolio_BTS.c123e3375d1c153f1c3d.jpg",
+    "static/media/CV_ElliotGuiberteau_.pdf": "/Portfolio_Elliot_GUIBERTEAU/static/media/CV_ElliotGuiberteau_.5849c0e988b843fc5e5e.pdf",
+    "static/media/CV_ElliotGuiberteau.jpg": "/Portfolio_Elliot_GUIBERTEAU/static/media/CV_ElliotGuiberteau.51384ab1a8683163075a.jpg",
+    "static/media/Linux.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Linux.6d208c95cc37fd3cdc44.png",
+    "static/media/Virtualbox.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Virtualbox.58017192ddbaebb54150.png",
+    "static/media/Mise_En_Place_AD.jpg": "/Portfolio_Elliot_GUIBERTEAU/static/media/Mise_En_Place_AD.180b0710d7be4d8c2207.jpg",
+    "static/media/Hyperviseur.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Hyperviseur.647293bd48847b51a034.png",
+    "static/media/Infra.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Infra.53d41eac054aed2b818e.png",
+    "static/media/Phpstorm.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Phpstorm.9011ffb8fed898724116.png",
+    "static/media/Packet_tracer.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/Packet_tracer.3e5fe79d158b0fd56a03.png",
+    "static/media/Portfolio_main.jpg": "/Portfolio_Elliot_GUIBERTEAU/static/media/Portfolio_main.038543103928c012cecf.jpg",
+    "static/media/fog.jpg": "/Portfolio_Elliot_GUIBERTEAU/static/media/fog.8533fd378e978211fa0f.jpg",
+    "static/media/php.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/php.3fc15cf443a81ef2d0a4.png",
+    "static/media/react.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/react.c59a2e84840223bb95c6.png",
+    "static/media/html.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/JS.png": "/Portfolio_Elliot_GUIBERTEAU/static/media/JS.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio_Elliot_GUIBERTEAU/index.html",
+    "main.9a9f5dee.css.map": "/Portfolio_Elliot_GUIBERTEAU/static/css/main.9a9f5dee.css.map",
+    "main.207c1d06.js.map": "/Portfolio_Elliot_GUIBERTEAU/static/js/main.207c1d06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a9f5dee.css",
+    "static/js/main.207c1d06.js"
+  ]
+}
