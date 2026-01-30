@@ -27,7 +27,9 @@ function Banner() {
                     </a>
                 </li>
                 <li>
+                     <a href="#footer">
                     Contact
+                    </a>
                 </li>
                 </ul>
             </div>

@@ -144,3 +144,22 @@
         background-color: grey;
     }
 
+
+    @media (max-width: 768px) {
+
+  #portfolio {
+    flex-direction: column; 
+    align-items: center;
+    padding-top: 50px;
+  }
+
+
+
+  .projet {
+    font-size: 1.2em;       
+    padding: 15px;
+  }
+
+
+
+}

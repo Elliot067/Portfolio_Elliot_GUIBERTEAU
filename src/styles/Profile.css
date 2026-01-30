@@ -20,3 +20,26 @@
     text-transform: uppercase;
     margin-bottom: 50px;
 }
+
+@media (max-width: 768px) {
+
+  #profile {
+    height: auto;             
+    padding-top: 120px;       
+    padding-bottom: 120px;
+  }
+
+  #contenair-profile {
+    width: 90%;                
+    height: auto;            
+    padding: 25px;
+  }
+
+  #profile h1 {
+    margin-bottom: 30px;
+  }
+
+  #profile {
+  scroll-margin-top: 100px; 
+}
+}

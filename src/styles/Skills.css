@@ -18,14 +18,17 @@
 }
 
 #description img{
+  width: 90%;          
+    max-width: 500px;   
+    height: auto;        
+    border-radius: 5px;
     border: 1px solid #1e3d58;
-    border-radius: 5px;   
+    margin: 0 auto 20px auto;
+    display: block;
 }
 
 #skills img{
     margin-bottom: 30px;
-    width: 30vw;
-
 }
 
 #skills a {
@@ -75,4 +78,74 @@
 
 #Langages div {
     margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+
+
+  #skills h1 {
+    margin-bottom: 50px;
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+ 
+  #contenair-skills {
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+
+  #skills div {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+
+  #description {
+    text-align: center;
+  }
+
+  #description img {
+    width: 80%;         
+    max-width: 300px;    
+    border-radius: 5px;
+    border: 1px solid #1e3d58;
+    margin: 0 auto 20px auto;
+    display: block;
+  }
+
+ 
+  #skills img {
+    width: 100%;          
+    max-width: 350px;
+    margin-bottom: 20px;
+  }
+
+  #skills a {
+    padding: 15px;
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+  }
+
+
+  #img-skills img {
+    width: 20vw;
+    height: 20vw;
+    max-width: 120px;
+    max-height: 120px;
+  }
+
+
+  #OS, #Outils, #Langages {
+    text-align: center;
+  }
+
+  #OS div, #Outils div, #Langages div {
+    margin-bottom: 15px;
+  }
+
 }

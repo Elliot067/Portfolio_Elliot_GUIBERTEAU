@@ -5,7 +5,7 @@ import '../styles/Footer.css'
 function Footer() {
     return (
      <footer>
-         <div class="footer-container">
+         <div class="footer-container" id='footer'>
             <div class="footer-section">
                 <p>Contactez-moi :</p>
                 <p>Email : elliot.guiberteau@gmail.com</p>
